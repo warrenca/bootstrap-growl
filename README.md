@@ -3,6 +3,9 @@ This is a simple pluging that turns standard Bootstrap alerts into "Growl-like" 
 
 
 ## Changelog
+##### Version 1.0.7
+- Added bower.json
+
 ##### Version 1.0.6
 - Added onGrowlShow and onGrowlShown callback functionality.
 

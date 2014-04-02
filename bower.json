@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-growl-forked",
+  "main": "bootstrap-growl.js",
+  "version": "1.0.7",
+  "homepage": "https://github.com/warrenca/bootstrap-growl",
+  "authors": [
+    "mouse0270"
+  ],
+  "description": "This is a simple pluging that turns standard Bootstrap alerts into \"Growl-like\" notifications.",
+  "keywords": [
+    "growl",
+    "bootstrap-growl",
+    "bootstrap-growl-forked"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
